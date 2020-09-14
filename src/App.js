@@ -6,7 +6,7 @@ import Profile from './components/Profile/Profile';
 import Dialogs from './components/Dialogs/Dialogs';
 import { Route } from 'react-router-dom';
 //import { updateNewPostText } from './redux/state';
-//import { updateNewPostText } from './redux/state';
+
 
 const App = (props) => {
   return (
