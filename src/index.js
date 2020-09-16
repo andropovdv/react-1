@@ -6,7 +6,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter } from 'react-router-dom';
-import { Provider } from './storeContext';
+import { Provider } from 'react-redux';
+
 
 
 
